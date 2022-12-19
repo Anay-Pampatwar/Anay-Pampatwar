@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Anay Pampatwar](https://raw.githubusercontent.com/Anay-Pampatwar/Anay-Pampatwar/main/github.jpg)
 
-
+#### 💬 About Me
 - Currently: Pursuing MS in Software Engineering from Northeastern University, Boston
 - Previously: Cloud Architect at Infosys Limited, Pune, India
 ---
@@ -42,9 +42,16 @@ __Checkout my GitHub repository:__
 - <a href="https://github.com/Anay-Pampatwar/CSYE6200Lab">Stocks Portfolio Managemant React Project</a>
 
 ---
+
+#### 🏆 My Certifications
+
+- AWS Certified Solution Architect Associate.
+- Click to view my [Certification](https://www.linkedin.com/posts/anay-pampatwar28_aws-certificate-activity-6830679042228854784-sqgc?utm_source=share&utm_medium=member_desktop).
+
+
 #### ⚡ My Mantras
 
-- The only true wisdom is in knowing you know nothing. - *Socrates*
-- Life is 10% what happens to us and 90% how you react to it. - *Charles R. Swindoll*
+> The only true wisdom is in knowing you know nothing. - *Socrates*
+> Life is 10% what happens to us and 90% how you react to it. - *Charles R. Swindoll*
 
 
