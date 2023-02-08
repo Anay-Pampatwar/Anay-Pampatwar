@@ -27,12 +27,14 @@ Here are some ideas to get you started:
 - Stocks Portfolio Managemant React Project
 - Personal Portfolio Website
 - Recipe Suggestion JavaFX Application
-
+- Fault tolerant, Secure web application based on Node, Express and Sequalize on hosted AWS 
 
 ---
 #### 🌱 I’m currently learning
 - Web Design and User Experience Engineering
 - Object Oriented Programming
+- Cloud Computing and Network Structures
+- Program Structures and Cloud Computing
 
 ---
 
