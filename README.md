@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Anay Pampatwar](https://raw.githubusercontent.com/Anay-Pampatwar/Anay-Pampatwar/main/github.jpg)
 
 #### 💬 About Me
-Cloud Solutions Architect and Developer specializing in Oracle Cloud Infrastructure (OCI) and AWS at Mythics, LLC. I'm passionate about leveraging cutting-edge cloud technologies to drive digital transformation.
+Currently working as a Cloud Developer specializing in Oracle Cloud Infrastructure (OCI) at Mythics, LLC. I'm passionate about leveraging cutting-edge cloud technologies to drive digital transformation.
 
 - 🏗️ Design and implement OCI solutions for enterprise clients
 - 💼 Provide technical presales support with POC presentations and demos
