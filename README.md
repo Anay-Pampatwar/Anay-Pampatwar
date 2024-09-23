@@ -19,22 +19,36 @@ Here are some ideas to get you started:
 ![Anay Pampatwar](https://raw.githubusercontent.com/Anay-Pampatwar/Anay-Pampatwar/main/github.jpg)
 
 #### 💬 About Me
-- Currently: Pursuing MS in Software Engineering from Northeastern University, Boston
-- Previously: Cloud Architect at Infosys Limited, Pune, India
----
-#### 🔭 I’m currently working on
+Cloud Solutions Architect and Developer specializing in Oracle Cloud Infrastructure (OCI) and AWS at Mythics, LLC. I'm passionate about leveraging cutting-edge cloud technologies to drive digital transformation.
 
-- Stocks Portfolio Managemant React Project
-- Personal Portfolio Website
-- Recipe Suggestion JavaFX Application
-- Fault tolerant, Secure web application based on Node, Express and Sequalize on hosted AWS 
+- 🏗️ Design and implement OCI solutions for enterprise clients
+- 💼 Provide technical presales support with POC presentations and demos
+- 🛠️ Utilize IaC tools like Terraform and Jenkins for cloud infrastructure
+- 🔒 Guide clients through compliance, security, and production Go-Live processes
+- 🔄 Expertise in migrating on-premises applications to cloud environments
+---
+#### 🔭 🎓 Education
+
+- MS in Computer Software Engineering - Northeastern University (2022 - 2024)
+- BTech in Electronics and Telecommunication Engineering - Vishwakarma Institute Of Technology (2015 - 2019)
 
 ---
-#### 🌱 I’m currently learning
-- Web Design and User Experience Engineering
-- Object Oriented Programming
-- Cloud Computing and Network Structures
-- Program Structures and Cloud Computing
+#### 🌱 Professional Experience
+- Mythics, LLC
+  - Cloud Developer (September 2024 - Present)
+  - Cloud Engineer Co-op (January 2024 - August 2024)
+- Infosys
+  - Senior System Engineer (October 2021 - August 2022)
+  - System Engineer (September 2019 - September 2021)
+---
+🛠️ Skills
+
+- Cloud Platforms: Oracle Cloud Infrastructure (OCI), AWS
+- IaC: Terraform, CloudFormation
+- CI/CD: Jenkins
+- Programming: Java, JavaScript, TypeScript, Python, SQL
+- Cloud-Native Applications
+- DevOps Practices
 
 ---
 
@@ -47,8 +61,11 @@ __Checkout my GitHub repository:__
 
 #### 🏆 My Certifications
 
-- AWS Certified Solution Architect Associate.
-- Click to view my [Certification](https://www.linkedin.com/posts/anay-pampatwar28_aws-certificate-activity-6830679042228854784-sqgc?utm_source=share&utm_medium=member_desktop).
+- Oracle Cloud Infrastructure 2024 Migration Architect Certified Professional
+- Oracle Cloud Infrastructure 2024 Certified Observability Professional
+- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
+- Oracle Cloud Infrastructure 2023 Certified Architect Associate
+- AWS Solutions Architect Associate
 
 
 #### ⚡ My Mantras
